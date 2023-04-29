@@ -1,0 +1,70 @@
+[
+  [
+    {
+      "owner": "Trung Thieu Quang",
+      "username": "tqt",
+      "pin": 1999,
+      "movements": [
+        100,
+        -50,
+        200,
+        -25,
+        100,
+        -50,
+        200,
+        -25,
+        100,
+        -50,
+        200,
+        -25,
+        100,
+        -50,
+        200,
+        -25,
+        -100,
+        -300,
+        -100,
+        100,
+        100,
+        100,
+        100,
+        -100
+      ],
+      "contactList": [
+        "dh"
+      ]
+    },
+    {
+      "owner": "Dat Hoang",
+      "username": "dh",
+      "pin": 1999,
+      "movements": [],
+      "contactList": [
+        "tqt",
+        "tdq"
+      ]
+    },
+    {
+      "owner": "Tran Dang Quang",
+      "username": "tdq",
+      "pin": 1999,
+      "movements": [
+        100,
+        100,
+        100
+      ],
+      "contactList": [
+        "tqt"
+      ]
+    },
+    {
+      "owner": "felix",
+      "username": "fp",
+      "pin": 1999,
+      "movements": [
+        300
+      ],
+      "contactList": []
+    }
+  ]
+]
